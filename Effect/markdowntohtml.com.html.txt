@@ -1,0 +1,91 @@
+<html><head><style>body {
+   color: black;
+}
+</style></head><body><h1 id="2022-01_music">2022-01_Music</h1>
+<table>
+<thead>
+<tr>
+<th><strong>Artist</strong></th>
+<th><strong>Project</strong></th>
+<th><strong>Year</strong></th>
+<th><strong>Type</strong></th>
+<th><strong>Rating</strong> (1-10)</th>
+<th><strong>Link</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100 gecs</td>
+<td>100 gecs and The Tree of Clues</td>
+<td>2020</td>
+<td>Remix Album</td>
+<td>10</td>
+<td><a href="https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS?si=yIbyICP-SeqRex09ed_tZw">Spotify</a></td>
+</tr>
+<tr>
+<td>Lin-Manuel Miranda, Encanto Cast</td>
+<td>Encanto</td>
+<td>2021</td>
+<td>Soundtrack</td>
+<td>7.5</td>
+<td><a href="https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR?si=C8tFA3KmTJ29d6VTjo_neg">Spotify</a></td>
+</tr>
+<tr>
+<td>Tee Grizzley</td>
+<td>My Moment</td>
+<td>2017</td>
+<td>Mixtape</td>
+<td>9</td>
+<td><a href="https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn?si=jXyLiW9vSgmL9TNe298Yvg">Spotify</a></td>
+</tr>
+<tr>
+<td>Billie Eilish</td>
+<td>Happier Than Ever</td>
+<td>2021</td>
+<td>Album</td>
+<td>9.5</td>
+<td><a href="https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp?si=knWIzQkRS520wzFIdRMiPQ">Spotify</a></td>
+</tr>
+<tr>
+<td>The Game, Kanye West</td>
+<td>Eazy</td>
+<td>2022</td>
+<td>Single</td>
+<td>8.5</td>
+<td><a href="https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI?si=a07758ba9c6c497f">Spotify</a></td>
+</tr>
+<tr>
+<td>The Weeknd</td>
+<td>Dawn FM</td>
+<td>2022</td>
+<td>Album</td>
+<td>10</td>
+<td><a href="https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC?si=nPhbWrADTtaQ1R8dKF87-A">Spotify</a></td>
+</tr>
+<tr>
+<td>Pusha T</td>
+<td>DAYTONA</td>
+<td>2018</td>
+<td>Album</td>
+<td>9.5</td>
+<td><a href="https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp?si=aTUJKXuvQwuAjZmEKq9mgw">Spotify</a></td>
+</tr>
+<tr>
+<td>Red Vox</td>
+<td>Visions</td>
+<td>2022</td>
+<td>Album</td>
+<td>7.5</td>
+<td><a href="https://vine.bandcamp.com/album/visions">Bandcamp</a></td>
+</tr>
+<tr>
+<td>Fall Out Boy</td>
+<td>Folie à Deux</td>
+<td>2008</td>
+<td>Album</td>
+<td>Eval.</td>
+<td><a href="https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD?si=VS88iKhbTA2Lnbck9LVNAQ">Spotify</a></td>
+</tr>
+</tbody>
+</table>
+</body></html>
