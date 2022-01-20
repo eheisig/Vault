@@ -1,8 +1,8 @@
 # Vault
 
-[Back to homepage](https://eheisig.com)
+[Back to homepage](/index.html)
 
-[Effect](https://eheisig.com/Vault/Effect)
+[Effect](Effect/)
 
 WIP
 
