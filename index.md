@@ -1,12 +1,10 @@
-# 2022-00_Music
+# Vault
 
 [Back to homepage](https://eheisig.com)
 
-[Back to Effect](https://eheisig.com/Vault/Effect)
+[Effect](https://eheisig.com/Vault/Effect)
 
-| **Artist** | **Project** | **Year** | **Type** | **Rating** (1-10) | **Link** |
-| ---------- | ----------- | -------- | -------- | ----------------- | -------- |
-|            |             |          |          |                   |          |
+WIP
 
 Site theme is [dracula-css](https://github.com/gkroon/dracula-css) by [gkroon](https://github.com/gkroon), based off of the [dracula-theme](https://github.com/dracula/dracula-theme). These parts are licensed under the [MIT License](https://mit-license.org).
 
